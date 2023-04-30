@@ -1,0 +1,15 @@
+// Import google font form fonts.google.com
+
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Poppins:ital,wght@0,300;0,400;1,300&family=Tillana:wght@400;800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Courgette', cursive; */
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Tillana', cursive; */
+}
