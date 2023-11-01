@@ -8,10 +8,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-family: 'Courgette', cursive; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Courgette', cursive;
     font-family: 'Poppins', sans-serif;
-    /* font-family: 'Tillana', cursive; */
+    font-family: 'Tillana', cursive;
 }
 
 body {
@@ -140,7 +140,7 @@ form button {
     color: #fff;
     font-size: 18px;
     cursor: pointer;
-    background-color: rgba(53, 151, 208, 0.882);
+    background-color: rgba(107, 139, 229, 0.882);
     transition: all 0.5s;
 }
 
@@ -148,13 +148,11 @@ form button:hover {
     background-color: rgba(31, 122, 174, 0.882);
 }
 
-
 @media (max-width: 700px) {
 
     .wrapper {
         width: 370px;
     }
-
 
     .drop-list .select-box {
         width: 115px;
